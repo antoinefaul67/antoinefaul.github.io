@@ -14,7 +14,7 @@ title                    : "Antoine Faul's homepage"
 title_separator          : "-"
 name                     : &name "Antoine Faul"
 description              : &description "personal description"
-url                      : https://athenaisgautier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  https://antoinefaul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "antoinefaul67/antoinefaul.github.io"
 
@@ -57,8 +57,8 @@ plugins:
 # Site Author
 author:
   name             : "About me"
-  avatar           : "assets/images/def.png"
-  bio              : "PhD Student in Statistics"
+  avatar           : "AntoineFaul_photo.jpeg"
+  bio              : "PhD Student in Statistics."
   location         : "Bern, Switzerland"
   employer         :
   pubmed           : 
