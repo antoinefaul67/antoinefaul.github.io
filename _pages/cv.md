@@ -1,5 +1,5 @@
 ---
-layout: cv-layout
+layout: simple
 classes: wide
 title: "A quick resume"
 description: "Antoine Faul's resume"
