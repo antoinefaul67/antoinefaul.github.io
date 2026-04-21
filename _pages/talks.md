@@ -36,10 +36,10 @@ Posters
   February 9-12 2026, Cambridge, England
 
 * [*46th Annual Conference of the International Society for Clinical Biostatistics*](https://iscb2025.info/)  
-  August 24-28 2025, Basel Switzerland
+  August 24-28 2025, Basel, Switzerland
 
 * [*Swisss reproducibility conference*](https://www.reproducibility.ch/)  
-  June 2024, ETH Zurich Switzerland
+  June 2024, ETH Zurich, Switzerland
 
 * [*GdR MASCOT-NUM Annual Meeting*](https://project.inria.fr/mascotnum2024/)  
   April 2-5, 2024, Giens, France  
