@@ -18,7 +18,7 @@ Papers
 
   * [*Easy conditioning far beyond Gaussian.* ](https://arxiv.org/abs/2409.16003)
 Status: Submitted (2026)
-Work by *A.F*, David Ginsbourger and Ginsbourger David 
+Work by *A.F*, David Ginsbourger and Ben Spycher
 
   * *Copula-based Synthetic Data Generation in Medicine*  
 Status: In preparation (2026)
