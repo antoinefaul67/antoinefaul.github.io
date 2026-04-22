@@ -19,4 +19,4 @@ My research interests span across several areas, including copulas, probabilisti
 
 My doctoral studies are partially funded by the Multidisciplinary Center for Infectious Diseases (MCID), where I collaborate on a project involving clinical and wearable data alongside clinicians and epidemiologists.
 
-I'm very interested in applications of statistics to domains such as climate sciences and medicine.
+I’m especially motivated by applications of statistics to domains such as climate sciences and medicine.
