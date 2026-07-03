@@ -24,7 +24,7 @@ Work by *A.F*, David Ginsbourger and Ben Spycher
 Status: In preparation (2026)
 Work by *A.F*, David Ginsbourger, Ben Spycher and Petra Stute.
 
-  * *Modelling Complex Tabular Datasets with a Mixture of Diverse Generative Models.* (https://openreview.net/pdf?id=3y3mHAldp7)
+  * [*Modelling Complex Tabular Datasets with a Mixture of Diverse Generative Models.*] (https://openreview.net/pdf?id=3y3mHAldp7)
 Status: Published in Transactions on Machine Learning Research (2026)
 Work by *A.F*, Xiao Zhou, Ossi Raisa, Mihaela Van der Schaar and Cem Tekin.
 
