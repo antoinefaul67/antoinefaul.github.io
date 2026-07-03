@@ -20,7 +20,7 @@ Papers
 Status: Submitted (2026)
 Work by *A.F*, David Ginsbourger and Ben Spycher
 
-  * *Copula-based Synthetic Data Generation in Medicine*  
+  * *Copula-based Synthetic Data Generation: a sound trade-off.*  
 Status: In preparation (2026)
 Work by *A.F*, David Ginsbourger, Ben Spycher and Petra Stute.
 
